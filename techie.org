@@ -1,0 +1,100 @@
+* Main Character #1
+** Jannik Davidson
+** son of Helmut Davidson, boss of a semi-relevant investing firm
+** 17 (at the start of Book 1)
+** 
+** from: Western Germany
+** 
+** me but more motivated + bit more intelligent
+** just started uni *OR* got rejected from uni (so he has more time for other stuff)
+** first gen superhero
+*** specialty: mechanics
+*** motivation: wouldn't it be cool if ...?
+** spends book 1 building some sort of super suit/nanites (?)
+
+* Book 1
+** focus: Jannik
+** start:
+*** Jannik == normal person (~> avg intelligence)
+*** decision to build a suit
+** end:
+*** MC has some super suit
+*** meets MC 2 & 3
+** middle:
+*** suit build
+*** conflict:
+**** father wants him to learn about investing
+**** how to build something like that and make it not suck
+** set scenes:
+*** > i'm going to do this
+*** doubt
+*** great success! the suit is complete
+*** up until 4am working
+
+* Main Character #2
+** Jane Doe (unrel)
+** 
+** from: Southern Germany
+** 
+** PhD in biology
+** decided the world needs heroes
+** => first gen superhero
+*** specialty: microbiology/bio-hacking
+*** motivation: FOR SCIENCE!!!
+** spends book 2 developing a gene therapy -> healing factor (?)
+
+* Book 2
+** focus: MC 2
+** start:
+*** decides to try to create a healing factor
+** middle:
+*** a whole lot of research
+*** failed attempts
+*** cancer
+** conflict:
+*** > what are you doing there
+*** > this is the fifth time you got to the hospital in 3 years
+*** genetics is hard
+** end:
+*** meets MC 1 & 3
+** set scenes:
+*** doubt
+*** cancer
+*** nervously taking a sample of herself
+*** nervously injecting her stuff into herself
+**** cuts herself as a test, but only a few days later
+**** this happens multiple times in the book
+
+* Main Character #3
+** other dude
+** 
+** hacker
+** 
+
+* Book 3
+** focus: MC 3
+** 
+
+* Setting
+** Books 1-3 :: modern day earth
+*** *no* (publicly known) sustained outer space colonies
+*** *no* (public) time travel
+*** *no* overt superhero/supervillain activity
+*** 
+
+* Time Frame
+** Book 1-3:
+*** start: all on the same day 
+**** 13 May 2013
+*** end:
+**** 2019/20 (?)
+**** MCs 1-3 meet shortly earlier
+***** TODO a month?
+
+* Side Characters
+** Helmut Davidson
+*** 40
+*** boss of a semi-relevant investing firm
+*** father of Jannik
+**** wants to teach him about investing, not very successfully
+*** TODO husband of ...?
